@@ -7,6 +7,10 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ## [Unreleased]
 
+_Nothing yet._
+
+## [1.1.0] — 2026-08-02
+
 ### Changed
 
 - **Licence — added a free-use grant.** Personal use, internal business use, modification for your own
@@ -18,9 +22,6 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 - **Install instructions** now point at the skill folder (`.../tree/main/financist-team`) rather than the
   repository root, which contains no `SKILL.md` and cannot be imported.
 
-> These changes are live on `main`, so they already reach anyone importing from it, but they are not
-> yet covered by a version tag.
-
 ## [1.0.0] — 2026-08-01
 
 ### Added
@@ -31,5 +32,6 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 - Verification requirements: numerical results cross-checked against a second method, empirical claims requiring out-of-sample testing and a multiple-testing correction, and an as-of date or `UNVERIFIED` label on every actionable figure.
 - An advisory guardrail that withholds market-timing calls and specific allocations on every question, without reducing analytical depth.
 
-[Unreleased]: https://github.com/tohir-dev/aqly-financist-team/compare/v1.0.0...main
+[Unreleased]: https://github.com/tohir-dev/aqly-financist-team/compare/v1.1.0...main
+[1.1.0]: https://github.com/tohir-dev/aqly-financist-team/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/tohir-dev/aqly-financist-team/releases/tag/v1.0.0
